@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://doe.io
+title: !=forget
+subtitle: Things I probably shouldn't forget. 
+author: Bennett Siegel
 simple_search: http://google.com/search
 description:
 
