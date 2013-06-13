@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[]]></title>
+  <title><![CDATA[Programming Snippets.]]></title>
   <link href="http://doe.io/atom.xml" rel="self"/>
   <link href="http://doe.io/"/>
-  <updated>2013-06-12T20:36:28-04:00</updated>
+  <updated>2013-06-12T20:45:39-04:00</updated>
   <id>http://doe.io/</id>
   <author>
     <name><![CDATA[Bennett Siegel]]></name>
