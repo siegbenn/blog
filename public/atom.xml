@@ -4,7 +4,7 @@
   <title><![CDATA[Programming Snippets.]]></title>
   <link href="http://doe.io/atom.xml" rel="self"/>
   <link href="http://doe.io/"/>
-  <updated>2013-06-15T15:06:48-04:00</updated>
+  <updated>2013-06-15T15:11:37-04:00</updated>
   <id>http://doe.io/</id>
   <author>
     <name><![CDATA[Bennett Siegel]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Creating a blog with Octopress, Github and Heroku.]]></title>
+    <title type="html"><![CDATA[Creating a blog with Octopress, Github and Heroku]]></title>
     <link href="http://doe.io/blog/2013/06/15/creating-a-blog-with-octopress-and-github/"/>
     <updated>2013-06-15T13:34:00-04:00</updated>
     <id>http://doe.io/blog/2013/06/15/creating-a-blog-with-octopress-and-github</id>
@@ -28,7 +28,7 @@
 
 <p>You need to have Ruby 1.9.3 installed.</p>
 
-<p>Instructions for each of these varies depending on your opperating system so independent research is required. The guide on <a href="http://railsapps.github.io/installing%20rails.html">railsapps.github.io</a> is very good.</p>
+<p>Instructions for each of these varies depending on your operating system so independent research is required. The guide on <a href="http://railsapps.github.io/installing%20rails.html">railsapps.github.io</a> is very good.</p>
 
 <hr />
 
